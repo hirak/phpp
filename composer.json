@@ -1,0 +1,17 @@
+{
+    "name": "hirak/phpp",
+    "description": "php preprocessor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hiraku NAKANO",
+            "email": "hiraku@tojiru.net"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/PHPP.php"
+        ]
+    },
+    "require": {}
+}
